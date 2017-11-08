@@ -5,14 +5,19 @@
 ## 目标
 
 熟悉移动端+PC端的响应式Web开发
+
 理解HTML+CSS的作用
+
 巩固所学习的知识
+
 初步了解项目开发所需要的知识
 
 ## 环境配置
 
 Linux(Ubuntu)
+
 vscode/vim/emacs/gedit
+
 chromium/firefox
 
 ## 计划时间
@@ -31,6 +36,7 @@ chromium/firefox
 ## 技术栈
 
 HTML(5) + CSS(3) + js
+
 jquery + bootstrap
 
 ## 功能
